@@ -3,9 +3,7 @@
 ## 🎓 About Me
 I'm currently a student at [42 Network](https://42.fr/en/network-42/), a revolutionary coding school that focuses on project-based, peer-to-peer learning.
 
-<a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/greenbinary/asebrani" alt="asebrani's 42 stats" />
-</a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/asebrani" alt="asebrani's 42 stats" /></a>
 
 ## 💻 What I'm Learning
 - C/C++ programming
@@ -43,10 +41,7 @@ Here are some of the key projects I've worked on at 42:
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sebrani-aymane&show_icons=true&theme=tokyonight)
 
-## 🐍 Contribution Snake
-Watch the snake eat my contribution squares:
 
-![Snake animation](https://github.com/sebrani-aymane/sebrani-aymane/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect With Me
 - *linkedin.com/in/aymane-sebrani*
