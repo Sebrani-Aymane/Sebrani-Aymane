@@ -50,3 +50,4 @@ Here are some of the key projects I've worked on at 42:
 ---
 
 ⭐️ From [sebrani-aymane](https://github.com/sebrani-aymane)
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/Sebrani-Aymane/blob/output/github-contribution-grid-snake.svg)
