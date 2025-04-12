@@ -3,7 +3,7 @@
 ## 🎓 About Me
 I'm currently a student at [42 Network](https://42.fr/en/network-42/), a revolutionary coding school that focuses on project-based, peer-to-peer learning.
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/asebrani" alt="asebrani's 42 stats" /></a>
+[![<asebrani>'s 42 stats](https://badge.mediaplus.ma/<colorfulwaves>/<asebrani>)](https://github.com/oakoudad/badge42)
 
 ## 💻 What I'm Learning
 - C/C++ programming
