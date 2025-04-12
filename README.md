@@ -49,5 +49,7 @@ Here are some of the key projects I've worked on at 42:
 
 ---
 
+
 ⭐️ From [sebrani-aymane](https://github.com/sebrani-aymane)
 
+![snake gif](https://github.com/Sebrani-Aymane/Sebrani-Aymane/blob/output/github-snake-dark.svg)
